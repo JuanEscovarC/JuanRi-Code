@@ -1,2 +1,0 @@
-# JuanRi-Code
-Python Analytics
